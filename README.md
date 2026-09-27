@@ -1,0 +1,1 @@
+# bqm-pos-analytics-db-schema
